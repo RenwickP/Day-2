@@ -1,0 +1,38 @@
+#title {
+  height: 13vh;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  border: 3px solid black;
+
+}
+
+#second {
+  text-align: center;
+  margin-top: 7px;
+ 
+}
+
+.paragraph {
+  margin: auto;
+width: 500px;
+}
+footer {
+  height: 10vh;
+  background-color: blue;
+  border: 3px solid black;
+}
+
+#two {
+  padding-bottom: 12px;
+}
+
+.box {
+  height: 15px;
+  width: 550px;
+  background-color:lightblue;
+  margin: auto;
+  margin-top: 40px;
+ }
+
+}

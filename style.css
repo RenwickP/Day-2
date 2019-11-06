@@ -1,21 +1,22 @@
-#title {
+header {
   height: 13vh;
   text-align: center;
   background-color: blue;
   color: white;
   border: 3px solid black;
-
 }
 
-#second {
+main {
+  display: flex;
+}
+
+.text-center {
   text-align: center;
-  margin-top: 7px;
- 
 }
 
 .paragraph {
   margin: auto;
-width: 500px;
+  width: 500px;
 }
 footer {
   height: 10vh;
@@ -30,9 +31,11 @@ footer {
 .box {
   height: 15px;
   width: 550px;
-  background-color:lightblue;
+  background-color: lightblue;
   margin: auto;
   margin-top: 40px;
- }
-
 }
+
+/* #image {
+  float: right;
+} */
